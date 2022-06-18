@@ -18,3 +18,8 @@ By using CNN on satellite images of TCs and some climate data, we have tried to:
 - Classify and categorize according to early images.
 - Using historical data to train model.
 - This in turn will help authorities be prepared beforehand
+
+
+
+Streamlit App -
+https://share.streamlit.io/nsunik/cyclone_image_classification/main/app.py
